@@ -1,0 +1,21 @@
+# Compiled class files
+target/
+*.class
+
+# Log files
+*.log
+
+# IDE Specific files
+.vscode/
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper
+.mvn/
